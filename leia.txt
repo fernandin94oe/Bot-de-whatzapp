@@ -1,0 +1,19 @@
+comandos do termux:
+
+termux-setup-storage
+
+pkg update
+
+pkg upgrade
+
+pkg install yarn
+
+pkg install nodejs
+
+pkg install git
+
+yarn
+
+cd /sdcard/novobot
+
+node index.js
